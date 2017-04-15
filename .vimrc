@@ -29,3 +29,6 @@ set incsearch
 set wrapscan
 set hlsearch
 nmap <Esc><Esc> :nohlsearch<CR><Esc>" setting
+
+set backspace=indent,eol,start
+set nocompatible
