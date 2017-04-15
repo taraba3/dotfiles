@@ -9,7 +9,6 @@ set showcmd
 set number
 set cursorcolumn
 set virtualedit=onemore
-set smartindent
 set visualbell
 set showmatch
 set laststatus=2
