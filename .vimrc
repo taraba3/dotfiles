@@ -5,7 +5,6 @@ set autoread
 set hidden
 set showcmd
 
-
 set number
 set cursorcolumn
 set virtualedit=onemore
@@ -16,12 +15,10 @@ set wildmode=list:longest
 nnoremap j gj
 nnoremap k gk
 
-
 set list listchars=tab:\▸\-
 set expandtab
 set softtabstop=4
 set shiftwidth=4
-
 
 set ignorecase
 set smartcase
